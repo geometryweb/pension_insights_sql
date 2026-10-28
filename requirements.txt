@@ -1,0 +1,6 @@
+marimo
+polars
+altair
+pandas
+pyarrow
+uv

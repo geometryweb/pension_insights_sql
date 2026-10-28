@@ -1,0 +1,20 @@
+# 가상환경 및 파이썬 관련
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# VS Code 설정 및 빌드 폴더
+.vscode/
+build/
+
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# bat
+*.bat
+
+# 데이터
+national_pension.csv
+public\national_pension.csv
